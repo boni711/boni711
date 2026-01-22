@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Boniface kiragu 👋
 
-<!--
-**boni711/boni711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Financial Engineering Graduate | Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+I specialize in bridging the gap between quantitative finance and data science. I love taking "chaotic" datasets and turning them into structured, actionable insights that drive decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 My Toolkit
+
+* **Finance:** Quantitative Modeling, Risk Analysis, Financial Reporting
+* **Data:** SQL, Python (Pandas, Scipy, Seaborn), Power BI, Tableau
+
+---
+
+## 🚀 Featured Projects
+
+* **[Sea Level Predictor](LINK_TO_REPO)** - Linear regression and trend forecasting using Python and Scipy.
+* **[COVID-19 Analysis](LINK_TO_REPO)** - SQL data engineering and Tableau visualization for global health trends.
+* **[Medical Data Visualizer](LINK_TO_REPO)** - Outlier detection and correlation analysis using Seaborn.
+
+---
+
